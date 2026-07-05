@@ -5,9 +5,7 @@ Analytics** — MSc 2 Manager in Data Marketing (INSEEC).
 
 ## 👥 Équipe
 
-- Milade LAMMARIE
-- Manel FRIKHA
-- Ines DAMMAK
+- Ines DAMMAK | Milade LAMMARIE | Manel FRIKHA
 
 ## 🎯 Question clé
 
