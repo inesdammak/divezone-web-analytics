@@ -83,5 +83,5 @@ divezone-web-analytics/
 
 ## ✍️ Auteurs
 
-Milade LAMMARIE, Manel FRIKHA, Ines DAMMAK — MSc 2 Manager in Data
+Ines DAMMAK, Milade LAMMARIE, Manel FRIKHA — MSc 2 Manager in Data
 Marketing, INSEEC.
