@@ -71,7 +71,6 @@ divezone-web-analytics/
 ├── .gitignore
 └── docs/
     ├── Divezone_Business_Case.pdf
-    └── Divezone_Business_Case.pptx
 ```
 
 ## 📦 Méthodologie & outils
