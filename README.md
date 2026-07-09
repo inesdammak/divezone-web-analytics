@@ -61,7 +61,7 @@ puis propose un plan d'action pour 2023.
 ## 🖼️ Prototype
 
 Un prototype de la nouvelle homepage (Recommandation 2) a été réalisé :
-👉 https://id-preview--045f7454-a955-4b44-a7ec-16ff845e4af4.lovable.app/
+👉 [https://id-preview--045f7454-a955-4b44-a7ec-16ff845e4af4.lovable.app/](https://lovable.dev/preview/e8r5wBJhoi2CfpbuBTWPLTMsqOMOB9aW)
 
 ## 📂 Contenu du dépôt
 
